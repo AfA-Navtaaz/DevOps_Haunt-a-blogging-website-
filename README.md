@@ -12,10 +12,6 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 
-Further on all the dockerfiles are also attatched to it in order to containerize the application for both backend(server) and frontend(client).
-
-Also in order to further develop and test other functions docker file is also attatched which will run the container .
-
 Feel free to add improvements and also to tell me about my errors and mistakes
 
 Thank you
